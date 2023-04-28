@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'hospitalproject';
   test = 'apple'
   name = 'sai kiran'
+  pname = 'hsptlpro'
 }
