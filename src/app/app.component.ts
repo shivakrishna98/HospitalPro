@@ -9,5 +9,5 @@ export class AppComponent {
   title = 'hospitalproject';
   test = 'apple'
   name = 'Sai kiran'
-  sname = 'Maddela'
+  fullname= 'Naresh'
 }
